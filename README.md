@@ -7,8 +7,8 @@
 ## [為什麼說深圳順創和順德天使聯投與緬北殺豬盤有相似性](https://github.com/baiesl/InnovationPredicament/blob/main/shunde-pig-butchering-investment-model.ZH-HK.md)
 
 # English
-## [Shunde's Technology Support Turns into Harvesting Leeks: Rent Subsidies Become High-Interest Loans (Part 1)]([https://github.com/baiesl/InnovationPredicament/blob/main/README.ZH-HK.md](https://github.com/baiesl/InnovationPredicament/blob/main/README.EN.md))
-## [Why Shenzhen Shunchuang and Shunde Angel Co-investment Resemble the Northern Myanmar Pig Butchering Scam]([https://github.com/baiesl/InnovationPredicament/blob/main/shunde-pig-butchering-investment-model.ZH-HK.md](https://github.com/baiesl/InnovationPredicament/blob/main/shunde-pig-butchering-investment-model.EN.md)https://github.com/baiesl/InnovationPredicament/blob/main/shunde-pig-butchering-investment-model.EN.md)
+## [Shunde's Technology Support Turns into Harvesting Leeks: Rent Subsidies Become High-Interest Loans (Part 1)](https://github.com/baiesl/InnovationPredicament/blob/main/README.EN.md)
+## [Why Shenzhen Shunchuang and Shunde Angel Co-investment Resemble the Northern Myanmar Pig Butchering Scam](https://github.com/baiesl/InnovationPredicament/blob/main/shunde-pig-butchering-investment-model.EN.md)
 
 # Media Contact
 ## sdcsmedia@proton.me
