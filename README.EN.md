@@ -1,4 +1,4 @@
-## Shunde's Technology Support Turns into Harvesting Leeks: Rent Subsidies Become High-Interest Loans (Part 1)
+# Shunde's Technology Support Turns into Harvesting Leeks: Rent Subsidies Become High-Interest Loans (Part 1)
 
 Shenzhen Chaosuan Science & Development Co., Ltd.(深圳市超算科技开发有限公司), located in the Nanshan District of Shenzhen, specializes in artificial intelligence and data sectors. The firm has filed for over 30 invention patents across a spectrum of technology areas and has garnered multiple prestigious accolades, including being recognized as a leading AI enterprise and a National High-Tech Enterprise. Collaborating with The Hong Kong Polytechnic University, the company has developed an award-winning data-driven intelligent operation system for HVAC systems, highlighting its commitment to pioneering and eco-friendly technological solutions.
 
